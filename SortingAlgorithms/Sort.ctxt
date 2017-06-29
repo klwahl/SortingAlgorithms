@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=java.util.ArrayList\ sortByMagnitude(java.util.ArrayList)
+comment1.params=list\ from
+comment1.target=int\ getSmallestMagnitude(java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ readData()
+comment3.params=list\ printAll
+comment3.target=void\ printResults(java.util.ArrayList,\ boolean)
+comment4.params=
+comment4.target=void\ tester()
+numComments=5
